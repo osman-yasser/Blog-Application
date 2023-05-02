@@ -39,4 +39,4 @@ Open your browser and navigate to `http://localhost:8000` to access the blog app
 Contributions are welcome! If you find any bugs or issues with the application, feel free to create an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
